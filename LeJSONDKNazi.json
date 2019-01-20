@@ -1,0 +1,12 @@
+ {
+    "author" : "PseudoDeAuteur", 
+    "name" : "DKNazi", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.1",
+    "dofusVersion" : "2.49", 
+    "description" : "Theme nazi jap pour les vrais kheys", 
+    "url" : "http://mywebsite.com/mytheme.zip",
+    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "creationDate" : "01/01/2019", 
+    "modificationDate" : "01/01/2019"
+    } 
